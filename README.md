@@ -11,7 +11,7 @@ With libraries like scikit-learn at our disposal, building classification models
 
 In classification problems, balancing your data is absolutely crucial. Data is said to be imbalanced when instances of one class outnumber the other(s) by a large proportion.
 
-    "Feeding imbalanced data to your classifier can make it biased in favor of the majority class, simply because it did not have enough data to learn about the minority."
+> "Feeding imbalanced data to your classifier can make it biased in favor of the majority class, simply because it did not have enough data to learn about the minority."
     
 ## What is SMOTE?
 
