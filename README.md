@@ -38,6 +38,6 @@ In my notebook, I worked with [this data](https://www.kaggle.com/mlg-ulb/creditc
 
 ## End Notes
 
-There are many sampling techniques for balancing data. SMOTE is just one of them. But, there’s no single best technique. Generally, you need to experiment with a few of them before deciding on one. Make sure to check out the resources I attached above to learn about all the sampling techniques.
+There are many sampling techniques for balancing data. SMOTE is just one of them. But, there’s no single best technique. Generally, you need to experiment with a few of them before deciding on one. 
 
 
